@@ -2,8 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a calulator
-- 📫 How to reach me: linktr.ee%2Fvasoski11&e=AT264kh3tkhpXkesH2OV5KKPoksDpDcvutij9-39BYdcm22delhTjqR_k-VEMK67MFipGjHeQuarP8ZxhVEesWscyRPP7CZf
-- 
+- 📫 How to reach me: https://linktr.ee/vasoski11
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
